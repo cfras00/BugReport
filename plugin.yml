@@ -1,0 +1,16 @@
+name: BugzReport
+main: me.websound.bugreport
+version: 1.0
+commands:
+   reportbug:
+      description: Reports a bug!
+      usage: /<command>
+   listbugs:
+      description: List all reported bugs!
+      usage: /<command>
+   delbug:
+      description: Deletes specified bug report!
+      usage: /<command>
+   bugzdev:
+      description: Tells user the developer of the plugin!
+      usage: /<command>
